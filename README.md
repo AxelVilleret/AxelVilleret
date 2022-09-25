@@ -11,7 +11,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AxelVilleret&theme=tokyonight" alt="mystreak"/>
 ![AxelVilleret's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelVilleret&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning with OpenClassroom in my free time
+🌱 I’m currently self-learning in my free time
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
