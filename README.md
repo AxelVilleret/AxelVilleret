@@ -8,7 +8,7 @@
 
 ## By the way here are some of my statistics 🚀
 
-<div align="center">![AxelVilleret's github stats](https://github-readme-stats.vercel.app/api?username=AxelVilleret&show_icons=true&theme=tokyonight)</div>
+![AxelVilleret's github stats](https://github-readme-stats.vercel.app/api?username=AxelVilleret&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AxelVilleret&theme=tokyonight" alt="mystreak"/>
 ![AxelVilleret's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelVilleret&theme=tokyonight&layout=compact)
 
