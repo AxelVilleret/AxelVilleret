@@ -11,6 +11,3 @@
 ![AxelVilleret's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelVilleret&theme=tokyonight&layout=compact)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## :envelope: Contact me : 
-<a href="https://www.linkedin.com/in/axel-villeret/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
