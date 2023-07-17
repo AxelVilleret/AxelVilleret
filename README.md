@@ -1,6 +1,6 @@
-<h1 align="center">Hello There :wave:</h1>
+<h1 align="center">Hi, my name is Axel VILLERET :wave:</h1>
 
-### :books: Student in engineering school passionate about IT in general and more particularly about Web technologies, I am constantly learning to develop my skills.
+### :books: Computer science student, passionate about web and mobile development. Curious and self-taught, I constantly seek new challenges and learn new things.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
