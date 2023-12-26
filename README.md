@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://axel-villeret.me/](https://axel-villeret.me/)
 
-- 📫 How to reach me **axel_villeret@orange.fr**
+- 📫 How to reach me **axel.villeret@gmail.com**
 
 - 📄 Know about my experiences [https://axel-villeret.me/assets/resume.pdf](https://axel-villeret.me/assets/resume.pdf)
 
