@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://axel-villeret.me/](https://axel-villeret.me/)
 
-- 📫 How to reach me **axel.villeret@gmail.com**
+- 📫 How to reach me **axel_villeret@orange.fr**
 
 - 📄 Know about my experiences [https://axel-villeret.me/assets/resume.pdf](https://axel-villeret.me/assets/resume.pdf)
 
@@ -21,5 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axelvilleret&show_icons=true&locale=en" alt="axelvilleret" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axelvilleret&" alt="axelvilleret" /></p>
-
-
