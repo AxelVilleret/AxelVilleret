@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axelvilleret" alt="axelvilleret" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://axel-villeret.me/]([https://axel-villeret.me/](https://axel-villeret.netlify.app/))
+- 👨‍💻 All of my projects are available [https://axel-villeret.netlify.app/](here)
 
 - 📫 How to reach me **axel_villeret@orange.fr**
 
