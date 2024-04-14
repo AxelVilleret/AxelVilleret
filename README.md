@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **axel_villeret@orange.fr**
 
-- 📄 Know about my experiences [here](https://axel-villeret.me/assets/resume.pdf)
+- 📄 Know about my experiences [here](https://axel-villeret.netlify.app/assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
