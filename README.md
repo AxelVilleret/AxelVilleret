@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axelvilleret" alt="axelvilleret" /></a> </p>
 
-- 👨‍💻 All of my projects are available [https://axel-villeret.netlify.app/](here)
+- 👨‍💻 All of my projects are available [here](https://axel-villeret.netlify.app/)
 
 - 📫 How to reach me **axel_villeret@orange.fr**
 
-- 📄 Know about my experiences [https://axel-villeret.me/assets/resume.pdf](https://axel-villeret.me/assets/resume.pdf)
+- 📄 Know about my experiences [here](https://axel-villeret.me/assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
