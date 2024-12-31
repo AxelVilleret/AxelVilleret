@@ -52,7 +52,7 @@
 <table>
   <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Langages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php,kotlin"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,php,kotlin"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -68,7 +68,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,docker,jenkins"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
