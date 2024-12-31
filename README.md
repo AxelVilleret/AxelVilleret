@@ -7,8 +7,11 @@
 👨‍💻 As a curious and passionate developer, I like to delve into concepts down to the smallest details. I am convinced that meeting customer needs is not enough. This is why I am invested in the search for software quality, measurable by the maintainability, readability and scalability of product deliverables.
 
 📚 To meet these major challenges, I have set up an effective technology watch that accompanies me on a daily basis:
+
 📖 Reading books (adept at Robert C. Martin's thoughts)
+
 🎧 Listening to podcasts (latest news and testimonials from major players in the tech sphere)
+
 💻 Consumption of online courses (which can go as far as passing a certification)
 
 📈 I also practice continuous improvement by constantly seeking to improve my practices and sometimes even by completely questioning them.
