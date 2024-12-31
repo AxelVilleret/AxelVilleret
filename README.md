@@ -2,9 +2,18 @@
 
 ### Hello 🌎, I'm Axel Villeret
 
-Specialist in People-Systems Interaction, I am trained to design user-centered IT solutions, integrating the latest technological innovations and societal issues. My past experiences have also allowed me to gain rigor, autonomy and to develop adaptation and teamwork skills.
+🚀 Graduated as an engineer in Interaction People Systems (IPS), I followed an in-depth training in software design, with a strong awareness of user experience (IHM/UI/UX). This dual skill allows me to propose effective, relevant and user-centered solutions.
 
-With experience, I am no longer content with simply coding. I tend towards a particular sensitivity to the quality of the code. Concretely, I strive to develop code in a modular and scalable way, using in particular practices such as Clean Architecture and Domain-Driven Design (DDD), which promote decoupling. This approach, which represents a huge challenge for companies, makes it possible to create robust, maintainable solutions ready to evolve with future needs.
+👨‍💻 As a curious and passionate developer, I like to delve into concepts down to the smallest details. I am convinced that meeting customer needs is not enough. This is why I am invested in the search for software quality, measurable by the maintainability, readability and scalability of product deliverables.
+
+📚 To meet these major challenges, I have set up an effective technology watch that accompanies me on a daily basis:
+📖 Reading books (adept at Robert C. Martin's thoughts)
+🎧 Listening to podcasts (latest news and testimonials from major players in the tech sphere)
+💻 Consumption of online courses (which can go as far as passing a certification)
+
+📈 I also practice continuous improvement by constantly seeking to improve my practices and sometimes even by completely questioning them.
+
+🛠️ An absolute fan of craftmanship, I am a follower of Design Patterns, TDD, DDD and Clean Architecture. I am convinced that these practices are essential for developing sustainable software.
 
 - 👨‍💻 All of my projects are available at [https://axel-villeret.netlify.app/](https://axel-villeret.netlify.app/)
 - 📫 How to reach me **axel_villeret@orange.fr**
