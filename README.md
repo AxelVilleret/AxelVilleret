@@ -16,7 +16,7 @@
 
 📈 I also practice continuous improvement by constantly seeking to improve my practices and sometimes even by completely questioning them.
 
-🛠️ An absolute fan of craftmanship, I am a follower of Design Patterns, TDD, DDD and Clean Architecture. I am convinced that these practices are essential for developing sustainable software.
+🛠️ An absolute fan of Software Craftsmanship, I am a follower of Design Patterns, TDD, DDD and Clean Architecture. I am convinced that these practices are essential for developing sustainable software.
 
 - 👨‍💻 All of my projects are available at [https://axel-villeret.netlify.app/](https://axel-villeret.netlify.app/)
 - 📫 How to reach me **axel_villeret@orange.fr**
