@@ -18,9 +18,9 @@
 
 🛠️ An absolute fan of Software Craftsmanship, I am a follower of Design Patterns, TDD, DDD and Clean Architecture. I am convinced that these practices are essential for developing sustainable software.
 
-- 👨‍💻 All of my projects are available at [https://axel-villeret.netlify.app/](https://axel-villeret.netlify.app/)
+- 👨‍💻 All of my projects are available on [my portfolio](https://axelvilleret.netlify.app/)
 - 📫 How to reach me **axel_villeret@orange.fr**
-- 📄 Know about my experiences [https://axel-villeret.netlify.app/assets/resume.pdf](https://axel-villeret.netlify.app/assets/resume.pdf)
+- 📄 Know about my experiences by viewing [my resume](https://axelvilleret.netlify.app/assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
