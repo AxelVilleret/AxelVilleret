@@ -1,5 +1,3 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 ### Hello 🌎, I'm Axel Villeret
 
 🚀 As an engineer specializing in Human-System Interaction (HSI), I have undergone extensive training in software design with a strong focus on user experience (HCI/UI/UX). This dual expertise enables me to deliver effective, relevant, and user-centric solutions.
@@ -20,25 +18,30 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/axelvilleret" target="blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://linkedin.com/in/axelvilleret" target="_blank">
+    <img height="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axelvilleret&label=Profile%20views&color=0e75b6&style=flat" alt="axelvilleret" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=axelvilleret&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+---
 
-------
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axelvilleret&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Axel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axelvilleret&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/axelvilleret)
 
 <div align="center">
   <a href="https://github.com/axelvilleret">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=axelvilleret&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="axelvilleret"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axelvilleret&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="axelvilleret"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelvilleret&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axelvilleret&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
   </a>
 </div>
+
 <p align="center">
   <a href="https://github.com/axelvilleret">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=axelvilleret&&theme=tokyonight" alt="axelvilleret" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=axelvilleret&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
