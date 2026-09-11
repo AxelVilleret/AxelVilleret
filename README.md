@@ -35,8 +35,8 @@
 
 <div align="center">
   <a href="https://github.com/axelvilleret">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=axelvilleret&layout=compact&theme=tokyonight" alt="Top Languages"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axelvilleret&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-two.vercel.app/api/top-langs?username=axelvilleret&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats-two.vercel.app/api?username=axelvilleret&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
   </a>
 </div>
 
