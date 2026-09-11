@@ -46,36 +46,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=axelvilleret&&theme=tokyonight" alt="axelvilleret" />
   </a>
 </p>
-
-------
-<h3 align="left">Languages and Tools:</h3>
-<table>
-  <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Langages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,php,kotlin"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=spring,symfony,django,nodejs"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=angular,react,vue,tailwind"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=figma,postman,wordpress"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
-    </tr>
-</table>
