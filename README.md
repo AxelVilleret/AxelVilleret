@@ -2,21 +2,17 @@
 
 ### Hello 🌎, I'm Axel Villeret
 
-🚀 Graduated as an engineer in Interaction People Systems (IPS), I followed an in-depth training in software design, with a strong awareness of user experience (IHM/UI/UX). This dual skill allows me to propose effective, relevant and user-centered solutions.
+🚀 As an engineer specializing in Human-System Interaction (HSI), I have undergone extensive training in software design with a strong focus on user experience (HCI/UI/UX). This dual expertise enables me to deliver effective, relevant, and user-centric solutions.
 
-👨‍💻 As a curious and passionate developer, I like to delve into concepts down to the smallest details. I am convinced that meeting customer needs is not enough. This is why I am invested in the search for software quality, measurable by the maintainability, readability and scalability of product deliverables.
+👨‍💻 A curious and passionate developer, I enjoy delving into concepts down to the finest detail. I believe that simply meeting client needs isn't enough; that is why I am committed to software quality, measured by the maintainability, readability, and scalability of the deliverables I produce.
 
-📚 To meet these major challenges, I have set up an effective technology watch that accompanies me on a daily basis:
+📚 To tackle these key challenges, I maintain an effective system for staying up-to-date with technology—incorporating books, newsletters, and podcasts into my daily routine.
 
-📖 Reading books (adept at Robert C. Martin's thoughts)
+📈 I also practice continuous improvement, constantly seeking to refine my methods—and sometimes even completely rethinking them—through personal projects.
 
-🎧 Listening to podcasts (latest news and testimonials from major players in the tech sphere)
+🤖 This drive for excellence leads me to regularly experiment with the best AI tools on the market, integrating them into my daily workflow to optimize development processes and explore new engineering approaches.
 
-💻 Consumption of online courses (which can go as far as passing a certification)
-
-📈 I also practice continuous improvement by constantly seeking to improve my practices and sometimes even by completely questioning them.
-
-🛠️ An absolute fan of Software Craftsmanship, I am a follower of Design Patterns, TDD, DDD and Clean Architecture. I am convinced that these practices are essential for developing sustainable software.
+🛠️ A huge proponent of Software Craftsmanship, I am a strong advocate for Design Patterns, DDD (Domain-Driven Design), and Clean Architecture. I am convinced that these practices are essential for developing sustainable software.
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://axelvilleret.netlify.app/)
 - 📫 How to reach me **axel.villeret@gmail.com**
