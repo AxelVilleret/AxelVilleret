@@ -35,8 +35,8 @@
 
 <div align="center">
   <a href="https://github.com/axelvilleret">
-    <img height="180em" src="https://github-readme-stats-two.vercel.app/api/top-langs?username=axelvilleret&layout=compact&theme=tokyonight" alt="Top Languages"/>
-    <img height="180em" src="https://github-readme-stats-two.vercel.app/api?username=axelvilleret&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axelvilleret&theme=tokyonight" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=axelvilleret&theme=tokyonight" alt="Top Languages"/>
   </a>
 </div>
 
