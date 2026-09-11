@@ -31,11 +31,11 @@
 
 <h3 align="left">Activity:</h3>
 
-[![Axel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axelvilleret&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/axelvilleret)
+[![Axel's github activity graph](https://github-activity-graph.vercel.app/graph?username=axelvilleret&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/axelvilleret)
 
 <div align="center">
   <a href="https://github.com/axelvilleret">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelvilleret&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=axelvilleret&layout=compact&theme=tokyonight" alt="Top Languages"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axelvilleret&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
   </a>
 </div>
